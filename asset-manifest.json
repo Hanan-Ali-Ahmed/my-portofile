@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portofile/static/css/main.35fe9f12.css",
+    "main.js": "/my-portofile/static/js/main.5b05456d.js",
+    "static/js/787.23e15a9b.chunk.js": "/my-portofile/static/js/787.23e15a9b.chunk.js",
+    "static/media/pic53.jpeg": "/my-portofile/static/media/pic53.b0489f09b22433043264.jpeg",
+    "static/media/pic44.jpg": "/my-portofile/static/media/pic44.b325a4dd59bb939b380f.jpg",
+    "static/media/pic27.jpeg": "/my-portofile/static/media/pic27.eef42163a5d95ea6e060.jpeg",
+    "static/media/pic6.jpeg": "/my-portofile/static/media/pic6.1c3e47b42cbf1cf3b189.jpeg",
+    "static/media/pic39.jpeg": "/my-portofile/static/media/pic39.08f941513ee7208a4ef1.jpeg",
+    "static/media/pic45.jpg": "/my-portofile/static/media/pic45.df61348a2af3772b4495.jpg",
+    "static/media/revicons.eot": "/my-portofile/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/my-portofile/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/my-portofile/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/my-portofile/index.html",
+    "main.35fe9f12.css.map": "/my-portofile/static/css/main.35fe9f12.css.map",
+    "main.5b05456d.js.map": "/my-portofile/static/js/main.5b05456d.js.map",
+    "787.23e15a9b.chunk.js.map": "/my-portofile/static/js/787.23e15a9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35fe9f12.css",
+    "static/js/main.5b05456d.js"
+  ]
+}
